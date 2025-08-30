@@ -5,7 +5,6 @@ The Women Safety App is an innovative solution designed to enhance security and 
 
 🌐 Explore the Platform:
 - 🔗 Access the app: [sakhi7.vercel.app](https://sakhi7.vercel.app/)
-- 🎥 Watch the demo: [Youtube](https://youtu.be/aXG4o5z09I8)
 
 🧑‍💻Testing account: 
 - username: test1
